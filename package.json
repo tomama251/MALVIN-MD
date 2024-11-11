@@ -2,12 +2,12 @@
   "name": "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳",
   "version": "2.0.0",
   "description": "",
-  "main": "malvin.js", 
+  "main": "index.js", 
   "scripts": {
-    "test": "node malvin.js",
-    "s": "node malvin.js",
-    "malvin": "pm2 start malvin.js --attach",
-    "malvin": "pm2 start malvin.js --attach",
+    "test": "node index.js",
+    "s": "node index.js",
+    "malvin": "pm2 start index.js --attach",
+    "malvin": "pm2 start index.js --attach",
     "c": "tsc"
   },
   "keywords": [
