@@ -82,12 +82,12 @@ Check out my YouTube channel for tutorials and more!
 3. Get Session ID
     <br>
     <br>
-<a href='https://button-scanner-92ecfab9abff.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=red&color=blue'/></a>
+<a href='https://malvin-session-0h9e.onrender.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Qr_id-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=red&color=blue'/></a>
 
     **2nd Session**
    <br>
    <br>
-<a href='https://replit.com/@malvink003/MALVIN-MD?v=1#main.sh' target="_blank"><img alt='REPLIT PAIR' src='https://img.shields.io/badge/Replit_Session-100000?style=for-the-badge&logo=replit&logoColor=whit&labelColor=black&color=green'/></a>
+<a href='https://malvin-session-0h9e.onrender.com/pair' target="_blank"><img alt='REPLIT PAIR' src='https://img.shields.io/badge/Pair_Session-100000?style=for-the-badge&logo=github&logoColor=whit&labelColor=black&color=green'/></a>
 
 
 
