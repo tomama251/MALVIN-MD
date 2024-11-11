@@ -21,5 +21,5 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "malvin.js"]
+CMD ["npm", "run" , "index.js"]
 
