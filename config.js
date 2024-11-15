@@ -30,7 +30,7 @@ module.exports = {
   ANTI_BOT: process.env.ANTI_BOT || "true",
   ANTI_DELETE: process.env.ANTI_DELETE || "true",
   packname: process.env.packname || "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳",
-  author: process.env.author || "𝙻𝚘𝚛𝚍 𝙼𝚊𝚕𝚟𝚒𝚗",
+  author: process.env.author || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ🪀",
   //==========================================- API-CONFIGS -==========================================================
   OPENWEATHER_API_KEY: process.env.OPENWEATHER_API_KEY || "2d61a72574c11c4f36173b627f8cb177", //openweathermap.org
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || "sk_6438bcc100d96458f8de0602aec662f4ba14b905fd090ad3", //elevenlabs.io
@@ -43,7 +43,6 @@ module.exports = {
   GOOGLE_CX: process.env.GOOGLE_CX || "AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME", 
   PASTEBIN_API_KEY: process.env.PASTEBIN_API_KEY || "uh8QvO6vQJGtIug9WvjdTAPx_ZAFJAxn",
 
-
 //------------------------------------------------------------------------------------------------------------------
 //------------------------------------------------------------------------------------------------------------------
 //------------------------------------------------------------------------------------------------------------------
@@ -53,9 +52,9 @@ module.exports = {
 
 --- *👨‍💻🎉 _Welcome to MALVIN-MD!_* 🎉🥰 
 
-*🔹 PREFIX:* .
+*🙃 PREFIX:* .
 
-*🔹 OWNER:* 263714757857
+*🙃 OWNER:* 263714757857
 
 
 _Thank you for using_ *👨‍💻MALVIN MD🥰.*
