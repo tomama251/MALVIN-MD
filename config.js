@@ -75,7 +75,7 @@ _*👨‍💻 Enjoy your time with us! 😊*_
 > *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ᴛᴇᴄʜ*` ,
 
   ALIVE_IMG: process.env.ALIVE_IMG || "https://g.top4top.io/p_3218pggm51.jpg",
-  MENU_IMG: process.env.MENU_IMG || "https://g.top4top.io/p_3218pggm51.jpg",
+  MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/uxnee2.jpg",
   MENU_MSG: process.env.MENU_MSG || `Menumsg`,
     MENU_MS: process.env.MENU_MS || `menu 2`,
 
