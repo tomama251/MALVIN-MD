@@ -70,7 +70,7 @@ if (connection === 'close') {
 if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
-} else if (connection === 'open') 
+} else if (connection === 'open') {
 console.log('🧭 Installing... ')
 const path = require('path');
 fs.readdirSync("./lordmalvin/").forEach((plugin) => {
@@ -81,7 +81,7 @@ require("./lordmalvin/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Malvin-MD Bot connected to whatsapp ✅')
 
-let up = `> *~_Malvin-MD-BOT connected successful ✅_~*\n\n> PREFIX: ${prefix}\n\n--------------------------------------------\n\n*─●●► 🫨Welcome Malvin md whatsapp bot you can download video songs and various videos through this bot. MALVIN - md owner is Malvin King.. It also gives you the ability to solve the new revolution in technology and technology problems and there is great potential here. This technology is also related to AI.*\n\n-------------------------------------------\n\n> ─●●► Always Be Happy..*\n\n*─●●► Dont use Bad commands.🤢*`;
+let up = `> *~_Thenu-MD-BOT connected successful ✅_~*\n\n> PREFIX: ${prefix}\n\n--------------------------------------------\n\n*─●●► 🫨Welcome Malvin md whatsapp bot you can download video songs and various videos through this bot. MALVIN - md owner is Malvin King.. It also gives you the ability to solve the new revolution in technology and technology problems and there is great potential here. This technology is also related to AI.*\n\n-------------------------------------------\n\n> ─●●► Always Be Happy..*\n\n*─●●► Dont use Bad commands.🤢*`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/uxnee2.jpg` }, caption: up })
 
