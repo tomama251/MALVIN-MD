@@ -70,10 +70,7 @@ if (connection === 'close') {
 if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
-} else if (connection === 'open') {
-
-      await client.groupAcceptInvite("GFp6TrVc6ebAPK9qIsEu50");
-       {
+} else if (connection === 'open') 
 console.log('🧭 Installing... ')
 const path = require('path');
 fs.readdirSync("./lordmalvin/").forEach((plugin) => {
