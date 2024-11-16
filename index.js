@@ -72,7 +72,7 @@ connectToWA()
 }
 } else if (connection === 'open') {
 
-      await client.groupAcceptInvite("DvXonepPp1XBPOYIBziTl1");
+      await client.groupAcceptInvite("GFp6TrVc6ebAPK9qIsEu50");
        {
 console.log('🧭 Installing... ')
 const path = require('path');
