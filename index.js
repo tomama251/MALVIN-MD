@@ -8,7 +8,6 @@ fetchLatestBaileysVersion,
 Browsers
 } = require('@whiskeysockets/baileys')
 
-const l = console.log 
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson } = require('./lib/functions')
 const fs = require('fs')
 const P = require('pino')
@@ -18,9 +17,9 @@ const util = require('util')
 const { sms,downloadMediaMessage } = require('./lib/msg')
 const axios = require('axios')
 const { File } = require('megajs')
+const prefix = '.'
 
-
-const ownerNumber = ['263714757857']
+const ownerNumber = ['263780934873']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -37,21 +36,10 @@ const express = require("express");
 const app = express();
 const port = process.env.PORT || 8000;
 
-//========connect mongodb=====================================
+//=============================================
 
 async function connectToWA() {
-//========connect mongodb======================
-const connectDB = require('./lib/mongodb')
-connectDB();
-
-//=========================================
-        
-const {readEnv} = require('./lib/database')
-const config = await readEnv();
-const prefix = config.PREFIX
-
-//=========================================
-console.log("Connecting Malvin-MD bot 🧬...");
+console.log("Connecting MALVIN MD BOT ⏳️...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -71,17 +59,17 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('🧭 Installing... ')
+console.log('🧬 Installing')
 const path = require('path');
-fs.readdirSync("./lordmalvin/").forEach((plugin) => {
+fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
-require("./lordmalvin/" + plugin);
+require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-console.log('Malvin-MD Bot connected to whatsapp ✅')
+console.log('Bot connected to whatsapp ✅')
 
-let up = `> *~_Thenu-MD-BOT connected successful ✅_~*\n\n> PREFIX: ${prefix}\n\n--------------------------------------------\n\n*─●●► 🫨Welcome Malvin md whatsapp bot you can download video songs and various videos through this bot. MALVIN - md owner is Malvin King.. It also gives you the ability to solve the new revolution in technology and technology problems and there is great potential here. This technology is also related to AI.*\n\n-------------------------------------------\n\n> ─●●► Always Be Happy..*\n\n*─●●► Dont use Bad commands.🤢*`;
+let up = `MALVIN-MD connected successful ✅\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/uxnee2.jpg` }, caption: up })
 
@@ -146,23 +134,24 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
                 return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ...options })
               }
             }
+ 
+//===================================work-type========================================= 
+if(!isOwner && config.MODE === "private") return
+if(!isOwner && isGroup && config.MODE === "inbox") return
+if(!isOwner && !isGroup && config.MODE === "groups") return
+//====================react============================
 
-//owner reacts===============================================================================
-if (senderNumber.includes("263714757857")){
-if (isReact) return
-m.react("")
-}  
+if(senderNumber.includes("263780934873")){
+if(isReact) return
+m.react("👨‍💻")
+}
 
-if (senderNumber.includes("263780934873")){
-if (isReact) return
-m.react("🌟")
-} 
-//===========================================================================================
-//======================================WORK-type============================================
-if (!isOwner && config.MODE === "private") return
-if (!isOwner && config.MODE === "inbox") return
-//==============================================================================
-
+if (config.AUTO_VOICE === 'true') {
+const url = 'https://raw.githubusercontent.com/DarkYasiyaofc/VOICE/main/Voice-Raw/FROZEN-V2'
+let { data } = await axios.get(url)
+for (vr in data){
+if((new RegExp(`\\b${vr}\\b`,'gi')).test(body)) conn.sendMessage(from,{audio: { url : data[vr]},mimetype: 'audio/mpeg',ptt:true},{quoted:mek})   
+ }}
 
 const events = require('./command')
 const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
@@ -195,12 +184,10 @@ mek.type === "stickerMessage"
 command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
 }});
 
-        
-
 })
 }
 app.get("/", (req, res) => {
-res.send("Hey, 𝙼𝙰𝙻𝚅𝙸𝙽-𝙼𝙳 bot started✅");
+res.send("hey, malvin started✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {

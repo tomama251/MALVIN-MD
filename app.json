@@ -1,18 +1,8 @@
 {
-  "name": "𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳",
-  "description": "𝙱𝚎𝚜𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚍 𝙱𝚢 𝙼𝚊𝚕𝚟𝚒𝚗 𝚃𝚎𝚌𝚑 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 263780166288, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚌𝚑𝚘𝚘sing 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳",
+  "name": "MALVIN-MD",
+  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
   "logo": "https://files.catbox.moe/uxnee2.jpg",
-  "keywords": ["bot",
-  "whatsapp",
-    "kingmalvn",
-    "whatsapp-stickers",
-    "malvin",
-    "whatsapp-bot",
-    "whatsapp-sticker-bot",
-    "malvin md",
-    "baileys",
-    "baileys-md",
-    "md-bot"],
+  "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
