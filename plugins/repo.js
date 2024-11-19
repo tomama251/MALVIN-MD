@@ -11,25 +11,21 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let dec = `*🚀 *_🧚‍♀️ 𝐌alvin Md repo!_* ✅ 
+let dec = `*👋 Hello ${pushname}*
+          
+📍𝖱𝖾𝗉𝗈 𝖫𝗂𝗇𝗄 ❤️‍🔥👇
 
---- *🧚‍♀️🎉 _Welcome to MIKU-MD!_* 🎉💃 
+👨‍💻◦ https://github.com/kingmalvn/MALVIN-MD 
 
-*💃🔹 Repo:* https://github.com/kingmalvn/MALVIN-MD 
+📍𝖯𝗅𝖾𝖺𝗌𝖾 𝖲𝗎𝖻𝗌𝖼𝗋𝗂𝖻𝖾 𝖬𝗒 𝖸𝗈𝗎𝗍𝗎𝖻𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 👇
 
-*💃🔹 OWNER:* < 263714757857 >🪄⚡
+👨‍💻◦ https://www.youtube.com/@malvintech2 
 
+📍𝖯𝗅𝖾𝖺𝗌𝖾 𝖥𝗈𝗅𝗅𝗈𝗐 𝖬𝗒 𝖶𝗁𝖺𝗍𝗌𝖺𝗉𝗉 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 👇
 
-_Thank you for using_   💃MIKU-MD💗*. 
-_We're here to make your experience enjoyable and seamless._
-_If you need any help or have questions, don't hesitate to ask._ 😼💗
+👨‍💻◦ https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 
-*🖇️Join My WhatsApp Channel✓🤍 - :* https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
-
-
-_*💃Enjoy your time with us!💡*_
-
-> *💐𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 - : ©Ｍａｌｖｉｎ Ｋｉｎｇ 2024^🤍*
+> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ*
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/uxnee2.jpg`},caption:dec},{quoted:mek});
 
