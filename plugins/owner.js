@@ -15,10 +15,12 @@ let dec = `*🧚‍♂️ MALVIN MD Whatsapp Bot*
 
 *| ᴏᴡɴᴇʀ ɴᴀᴍᴇ*: ᴍᴀʟᴠɪɴ ᴋɪɴɢ
 *| ɴᴜᴍʙᴇʀ*: 263780934873
+
 *| ʏᴏᴜᴛᴜʙᴇ*: https://www.youtube.com/@malvintech2 
+
 *| ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ*: https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 
-©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴜ ᴍᴀx
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ
 `
 await conn.sendMessage(from,{image:{url: `https://files.catbox.moe/uxnee2.jpg`},caption:dec},{quoted:mek});
 
