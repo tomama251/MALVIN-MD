@@ -39,7 +39,7 @@ const port = process.env.PORT || 8000;
 //=============================================
 
 async function connectToWA() {
-console.log("Connecting MALVIN MD BOT ⏳️...");
+console.log("Connecting Malvin MD BOT ⏳️...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -69,7 +69,7 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `MALVIN-MD connected successful ✅\n\nPREFIX: ${prefix}\n\n--------------------------------------------\n\n*─●●► 🫨Welcome Malvin md whatsapp bot you can download video songs and various videos through this bot. MALVIN - md owner is Malvin King.. It also gives you the ability to solve the new revolution in technology and technology problems and there is great potential here. This technology is also related to AI.*\n\n-------------------------------------------\n\n> ─●●► Always Be Happy..*\n\n*─●●► Dont use Bad commands.🤢*`;
+let up = `Malvin-MD connected successful ✅\n\nPREFIX: ${prefix}`;
 
 conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/uxnee2.jpg` }, caption: up })
 
