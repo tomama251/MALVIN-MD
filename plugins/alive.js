@@ -2,7 +2,7 @@ const config = require('../config')
 const {cmd , commands} = require('../command')
 
 cmd({
-    pattern: "alive",
+    pattern: "malvin",
     desc: "Check bot online or no.",
     category: "main",
     react: "👋",
@@ -23,9 +23,9 @@ I am Malvin md whatsapp bot. How can I help you.
 To get the menu, type as menu. If you need to know something about the bot,
 type as owner and direct the question to me. Good day.
 
-*ꜱʟ°᭄🇿🇼™️ 𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳*
+*°᭄🇿🇼™️𝙼𝙰𝙻𝚅𝙸𝙽 𝙼𝙳*
 
- > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ`
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
