@@ -1,11 +1,11 @@
 ***
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN-MD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN+MD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>
 
 ***
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING♥️&image=https://files.catbox.moe/20y1gs.jpg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%293eaeaea"/>
+src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING♥️&image=https://files.catbox.moe/20y1gs.jpg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -26,35 +26,7 @@ src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
 
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kingmalvn}/count.svg" alt='https:/github.com/kingmalvn/MALVIN-MD' :: Visitor's Count"/></p>
-
----
-
-
-</a>
-  <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
-
----
-
-<p align="center">
-  <a href="https://github.com/kingmalvn/MALVIN-MD"><b>MALVIN-MD</b></a> 
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=☆+Support+Deployments+on...👇👇)](https://git.io/typing-svg)
-</p>
-
-<p align="center">
-  <a href="https://github.com/kingmalvn/MALVIN-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/kingmalvn/MALVIN-MD/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
-  </a>
-</p>
- 
-***
 
 
 <h2 align="left">𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
@@ -106,7 +78,23 @@ src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
+----------    
 
+`✠ IF YOU WANT MORE ABOUT MALVIN MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ✠`
+
+---------
+
+<a href="https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
+-----------
+
+`✠ IF YOU WANT MORE ABOUT MALVIN MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✠`
+
+----------
+
+<a href="https://youtube.com/@malvintech2"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
+--------------
 ***
 
 <h2 align="left">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
@@ -140,3 +128,7 @@ src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD
 
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
+
+<p align="center">
+  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D368?style=for-the-badge&logo=whatsapp&logoColor=white" />
