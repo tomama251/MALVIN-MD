@@ -4,8 +4,10 @@
 
 ***
 
-<p align = center>   <img src="https://files.catbox.moe/20y1gs.jpg"</p>
-<p align="center">
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING%20OF%20KINGS%20OWNER%20MALVIN%20KING♥️&image=https://files.catbox.moe/20y1gs.jpg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%23eaeaea"/>
+
+<br>
 
    </p>
 <p align="center">
@@ -93,7 +95,17 @@
 
 
 
- 
+ ### <br> ❖ FOR SUPPORT ❖
+
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME VIA WHATSAPP ITS ME Malvin ✠ King࿐➺`**
+
+-------
+
+<p align="center">
+  <a href="https://wa.me/+263776388689?text=*ʜɪɪ+ᴍᴀʟᴠɪɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴍᴀʟᴠɪɴ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+-----------    
 
 ***
 
