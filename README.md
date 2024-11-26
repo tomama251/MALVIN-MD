@@ -5,7 +5,7 @@
 ***
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING♥️&image=https://files.catbox.moe/20y1gs.jpg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING♥️&image=https://files.catbox.moe/20y1gs.jpg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%293eaeaea"/>
 
 <br>
 
