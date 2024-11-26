@@ -51,12 +51,12 @@ src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD
 
 **Deploy to any hosting of ur choice**
 
-**1.Railway**
+**1. Railway**
 
 <p align="left">
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-red?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
    
-**2.Heroku**
+**2. Heroku**
    
 <p align="left">
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
