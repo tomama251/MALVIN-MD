@@ -1,8 +1,9 @@
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN+MD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>
 
-***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <img align="center" height="auto"
 src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING♥️&image=https://files.catbox.moe/20y1gs.jpg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%23eaeaea"/>
