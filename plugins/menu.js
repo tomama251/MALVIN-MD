@@ -3,7 +3,7 @@ const {cmd , commands} = require('../command')
 cmd({
     pattern: "menu",
     desc: "menu the bot",
-    category: "menu",
+    category: "menu2",
     react: "🇿🇼",
     filename: __filename
 },
@@ -24,6 +24,7 @@ let dec = `
 ╭━❮ 𝙾𝚆𝙽𝙴𝚁 ❯━╮
 ┃◆ .𝙾𝚠𝚗𝚎𝚛
 ┃◆ .𝙼𝚎𝚗𝚞
+┃◆ .𝙼𝚎𝚗𝚞2
 ┃◆ .𝙱𝚕𝚘𝚌𝚔
 ╰━━━━━━━━━━━━⪼
 ╭━❮ 𝙵𝚄𝙽 ❯━╮
