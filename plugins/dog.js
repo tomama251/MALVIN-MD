@@ -16,7 +16,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         await conn.sendMessage(from, { image: { url: data.message }, caption: '🐶 *ʀᴀɴᴅᴏᴍ ᴅᴏɢ ɪᴍᴀɢᴇ*\n>MALVIN-MD 🐶\n> ' }, { quoted: mek });
     } catch (e) {
-        console.log(e); // ❯❯ Powered by Thenu-MD 👑
+        console.log(e); // ❯❯ ©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ 👑
         reply(`єяяσя ƒєт¢нιηg ∂σg ιмαgє: ${e.message}`);
     }
 });
