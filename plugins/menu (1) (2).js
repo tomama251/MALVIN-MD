@@ -57,12 +57,10 @@ cmd({
 },
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let desc = `*╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
-
+        let desc = `*╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷*
 *⇆ ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ⇆*
 
      *${pushname}*
-     
 ╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
  *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍᴀʟᴠɪɴ ᴍᴅ v2 ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
@@ -113,237 +111,150 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
             if (msg.message.extendedTextMessage.contextInfo && msg.message.extendedTextMessage.contextInfo.stanzaId === vv.key.id) {
                 switch (selectedOption) {
                     case '1':
-                        reply(`*꧁◈╾──────OWNER COMMAND LIST──────╼◈꧂*
+                        reply(`*꧁◈╾───OWNER COMMAND LIST───╼◈꧂*
 
 ╭────────●●►
-│ ➽ *restart* 
-│ ➽ *block*
-│ ➽ *setting*
-│ ➽ *unblock*
-│ ➽ *jid*
-╰────────────────────●●►
+┋ ➽ *restart* 
+┋ ➽ *block*
+┋ ➽ *setting*
+┋ ➽ *unblock*
+┋ ➽ *jid*
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ⭓ *Total Commands List OWNER: 1*
 
-*©MALVIN MD CREATE BY MALVIN KINGッ*`);
+> *©ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッ*`);
                         break;
                     case '2':               
-                        repl (`꧁*◈╾──────CONVERT COMMAND LIST──────╼◈꧂*
+                        repl (`꧁*◈╾───CONVERT COMMAND LIST───╼◈꧂*
 
 ╭────────●●►
-│ ➽ *convert* 
-│ ➽ *ss* 
-╰────────────────────●●►
+┋ ➽ *convert* 
+┋ ➽ *ss* 
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ⭓ *Total Commands List CONVERT: 1*
 
-*©MALVIN MD CREATE BY MALVIN KING ッ*`);
+> *©ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッ*`);
                         break;
                     case '3':               
-                        reply(`꧁*◈╾──────AI COMMAND LIST──────╼◈꧂*
+                        reply(`꧁*◈╾───AI COMMAND LIST───╼◈꧂*
 
 ╭────────●●►
-│ ➽ *ai* 
-╰────────────────────●●►
+┋ ➽ *ai* 
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ⭓ *Total Commands List AI: 1*
 
-*©MALVIN MD CREATE BY MALVIN ッ*`);
+> *©ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッ*`);
                         break;
                     case '4':               
-                        reply(`*꧁◈╾──────SEARCH COMMAND LIST──────╼◈꧂*
+                        reply(`*꧁◈╾───SEARCH COMMAND LIST───╼◈꧂*
 
 ╭────────●●►
-│ ➽ *yt* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *song* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *video* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *movie* 
-╰────────────────────●●►
+┋ ➽ *yt* 
+┋ ➽ *song* 
+┋ ➽ *video* 
+┋ ➽ *movie* 
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ⭓ *Total Commands List SEARCH: 2*
 
-*MALVIN MD CREATE BY MALVIN KING ッ*`);
+> *ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッ*`);
                         break;
                     case '5':               
-                        reply(`*꧁◈╾──────DOWNLOAD COMMAND LIST──────╼◈꧂*
+                        reply(`*꧁◈╾─DOWNLOAD COMMAND LIST──╼◈꧂*
 
 ╭────────●●►
-│ ➽ *apk* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *twitter* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *gdrive* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *mediafire* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *fb* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *ig* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *movie* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *song* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *video* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *play/yt* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *yt* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *tiktok* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *img* 
-╰────────────────────●●►
+┋ ➽ *apk* 
+┋ ➽ *twitter* 
+┋ ➽ *gdrive* 
+┋ ➽ *mediafire* 
+┋ ➽ *fb*
+┋ ➽ *ig* 
+┋ ➽ *movie*
+┋ ➽ *song* 
+┋ ➽ *video* 
+┋ ➽ *play/yt* 
+┋ ➽ *yt*
+┋ ➽ *tiktok* 
+┋ ➽ *img* 
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ⭓ *Total Commands List DOWNLOAD: 14*
 
-*©MALVIN MD V2 CREATE BY MALVIN KING ッ*`);
+> *©ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッッ*`);
                         break;
                     case '6':               
-                        reply(`*꧁◈╾──────MAIN COMMAND LIST──────╼◈꧂*
+                        reply(`*꧁◈╾───MAIN COMMAND LIST───╼◈꧂*
 
 ╭────────●●►
-│ ➽ *alive* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *about* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *menu* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *allmenu* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *support* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *system* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *ping* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *runtime* 
-╰────────────────────●●►
+┋ ➽ *alive* 
+┋ ➽ *about* 
+┋ ➽ *menu* 
+┋ ➽ *allmenu* 
+┋ ➽ *support* 
+┋ ➽ *system* 
+┋ ➽ *ping* 
+┋ ➽ *runtime* 
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ⭓ *Total Commands List MAIN: 8*
 
-*©MALVIN MD CREATE BY KING MALVINッ*`);
+> *©ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッッ*`);
                         break;
                     case '7':               
-                        reply(`*꧁◈╾──────GROUP COMMAND LIST──────╼◈꧂*
+                        reply(`*꧁◈╾───GROUP COMMAND LIST───╼◈꧂*
 
 ╭────────●●►
-│ ➽ *promote* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *demote* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *kick* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *add* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *admins* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *tagall* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *getpic* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *setwelcome* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *setgoodbye* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *admins* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *gname* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *tagall* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *tagadmin* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *opentime/closetime* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *groupinfo* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *grouplink* 
-╰────────────────────●●►
-
+┋ ➽ *promote* 
+┋ ➽ *demote* 
+┋ ➽ *kick* 
+┋ ➽ *add* 
+┋ ➽ *admins* 
+┋ ➽ *tagall* 
+┋ ➽ *getpic* 
+┋ ➽ *setwelcome* 
+┋ ➽ *setgoodbye* 
+┋ ➽ *admins*
+┋ ➽ *gname* 
+┋ ➽ *tagall* 
+┋ ➽ *tagadmin* 
+┋ ➽ *opentime/closetime* 
+┋ ➽ *groupinfo* 
+┋ ➽ *grouplink* 
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 ⭓ *Total Commands List GROUP: 11*
 
-*MALVIN MD V2 CREATE BY MALVIN KINGッ*`);
+> *ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッ*`);
                        break;
                     case '8':               
-                        reply(`*꧁◈╾──────FUN COMMAND LIST──────╼◈꧂*
+                        reply(`*꧁◈╾───FUN COMMAND LIST───╼◈꧂*
 
 ╭────────●●►
-│ ➽ *dog* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *fact* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *hack* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *quote* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *loli* 
-╰────────────────────●●►
-
+┋ ➽ *dog* 
+┋ ➽ *fact* 
+┋ ➽ *hack* 
+┋ ➽ *quote* 
+┋ ➽ *loli* 
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ⭓ *Total Commands List FUN: 4*
 
-*MALVIN MD V2 CREATE BY MALVINッ*`);
+> *ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッッ*`);
 
                         break;
                     case '10':               
-                        reply(`*꧁◈╾──────OTHER COMMAND LIST──────╼◈꧂*
-
+                        reply(`*꧁◈╾───OTHER COMMAND LIST───╼◈꧂*
 
 ╭────────●●►
-│ ➽ *trt* 
-╰────────────────────●●►
-╭────────●●►
-│ ➽ *weather* 
-╰────────────────────●●►
+┋ ➽ *trt* 
+┋ ➽ *weather* 
+╰━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ⭓ *Total Commands List OTHER: 3*
 
-*MALVIN MD V2 BY MALVIN KING ッ*`);
+> *ᴍᴀʟᴠɪɴ ᴍᴅ ᴠ2 ᴄʀᴇᴀᴛᴇ ʙʏ ᴋɪɴɢ ᴍᴀʟᴠɪɴッッ*`);
 
 
                         break;
