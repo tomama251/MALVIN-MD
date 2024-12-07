@@ -85,7 +85,9 @@ src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD
 **6. Github Workflow**
 
 
-<p align="center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.
+<p align="center">
+   
+_Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it._
 
    
 **Copy workflow deploy code below**
@@ -170,16 +172,6 @@ jobs:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<h2 align="left">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
-<p style="text-align: center; font-size: 1.2em;">
-  <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
-  Misusing this bot may result in a <strong>ban</strong> on your WhatsApp account. 
-  Please note that accounts can only be unbanned once.
-</p>
-<p style="text-align: center; font-size: 1.2em;">
-  I am not responsible for any actions leading to the banning of your account. 
-  Use at your own risk, keeping this warning in mind.
-</p>
 
 ***
 <h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
