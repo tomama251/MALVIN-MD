@@ -184,10 +184,9 @@ jobs:
 ***
 <h2 align="left">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
 <p style="text-align: center; font-size: 1.2em;">
-  <strong>Not For Sale</strong><br>
-  - If any plugin's code is obfuscated, you do not have permission to edit it in any form.<br>
-  - Please remember to give credit if you are using or re-uploading my plugins/files.<br>
-  - Wishing you a wonderful day ahead! 
+  <strong>NB 🚫</strong><br>
+   
+_I’m not responsible for you messing around and getting your account banned. As long as you don’t modify the source code to fit your idiotic needs, you’re fine. But seriously, don’t go spamming others. I’m tired of repeating this._
 </p>
     
 ***
