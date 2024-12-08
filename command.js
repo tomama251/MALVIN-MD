@@ -1,5 +1,5 @@
 var commands = [];
-
+ 
 function cmd(info, func) {
     var data = info;
     data.function = func;
@@ -17,9 +17,4 @@ module.exports = {
     Function:cmd,
     Module:cmd,
     commands,
-
 };
-
-
-
-//COMMNAD
