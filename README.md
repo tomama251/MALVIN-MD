@@ -41,12 +41,12 @@ src="https://cardivo.vercel.app/api?name=MALVIN%20MD%20V2&description=🪀THE%20
 **2. Second Step**
 
 <p align="left">
-<a href='https://malvin-session-b0fda4056c35.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://pair-site-4aa42f6818d3.herokuapp.com/pair' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 **2. web app**
 
 <p align="left">
-<a href='https://pair-site-4aa42f6818d3.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-green?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://pair-site-4aa42f6818d3.herokuapp.com/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Web-green?style=for-the-badge&logo=git&logoColor=white'/< width=115 height=28/p></a>
 
 **4. Use borrowed session If the above not working**
 
